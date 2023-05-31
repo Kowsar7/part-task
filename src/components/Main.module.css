@@ -1,0 +1,22 @@
+.TableHeadRow {
+  background-color: #1976d2;
+}
+
+.HeadTitle {
+  color: white !important;
+  text-align: center !important;
+  font-weight: 600 !important;
+}
+
+.BodyCell {
+  text-align: center !important;
+}
+
+.DeleteButton {
+  font-size: 10px !important;
+  font-weight: 600;
+}
+
+.AddButton {
+  margin-top: 15px !important;
+}
